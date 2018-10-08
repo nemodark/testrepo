@@ -10,5 +10,9 @@
     <div class="container">
         <h1>This is a test repository</h1>
     </div>
+
+    <div class="container-fluid">
+        <h1>This is branch B</h1>
+    </div>
 </body>
 </html>
